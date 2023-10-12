@@ -1,0 +1,2 @@
+# SSU
+SoongSil University
