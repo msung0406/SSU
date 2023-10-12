@@ -1,5 +1,8 @@
 # SSU
 * SoongSil University
+
+![img](https://github.com/msung0406/SSU/assets/91241033/de88fca1-031d-4115-b3f0-beb5fd89c9e5)
+
 ### IWantGoHome
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msung0406)](https://github.com/anuraghazra/github-readme-stats)
